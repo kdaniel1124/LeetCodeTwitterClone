@@ -1,0 +1,14 @@
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\bin\Debug\net6.0\TwitterJunior.exe
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\bin\Debug\net6.0\TwitterJunior.deps.json
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\bin\Debug\net6.0\TwitterJunior.runtimeconfig.json
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\bin\Debug\net6.0\TwitterJunior.dll
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\bin\Debug\net6.0\TwitterJunior.pdb
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.AssemblyInfoInputs.cache
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.AssemblyInfo.cs
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.csproj.CoreCompileInputs.cache
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.dll
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\refint\TwitterJunior.dll
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.pdb
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\TwitterJunior.genruntimeconfig.cache
+C:\Users\Danny\CodeProjects\LeetCodeTwitter\TwitterJunior\TwitterJunior\obj\Debug\net6.0\ref\TwitterJunior.dll
