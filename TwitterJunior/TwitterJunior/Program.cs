@@ -21,7 +21,7 @@ public class Program
         {
             Console.WriteLine(tweet);
         }
-        Console.WriteLine(twit.Tweets[0]);
+        //Console.WriteLine(twit.Tweets[0]);
 
     }
 }

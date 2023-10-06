@@ -48,23 +48,32 @@ namespace TwitterJunior
                 }
             }
 
-            return personalFeed;
+            return personalFeed.Take(10).ToList();
 
         }
 
         public void Follow(int followerId, int followeeId)
         {
             // If follower isn't already following followee then follower's id gets added to followee's list
+            if (!UserFollowing.ContainsKey(followerId))
+            {
+                UserFollowing[followerId] = new List<int>();
+            }
+
             if (!UserFollowing[followerId].Contains(followeeId))
             {
                 UserFollowing[followerId].Add(followeeId);
             }
-
         }
 
         public void Unfollow(int followerId, int followeeId)
         {
             // If follower is following followee then follower's id gets removed from followee's list
+            if (!UserFollowing.ContainsKey(followerId))
+            {
+                UserFollowing[followerId] = new List<int>();
+            }
+
             if (UserFollowing[followerId].Contains(followeeId))
             {
                 UserFollowing[followerId].Remove(followeeId);
